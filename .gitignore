@@ -1,0 +1,9 @@
+
+.vscode/
+.vs/
+data/
+packages/
+*.config
+x64/
+*/x64/
+utility/haarcascades
